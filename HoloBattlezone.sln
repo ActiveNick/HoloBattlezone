@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloBattlezone.Plugins", "HoloBattlezone.Plugins.csproj", "{D9122C60-C830-A5B6-4BC3-62CEB47495B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloBattlezone", "HoloBattlezone.csproj", "{EECE22C9-E769-E9EC-E409-4762E3379257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloBattlezone.Editor.Plugins", "HoloBattlezone.Editor.Plugins.csproj", "{D2F8BBAC-33D5-E673-DFED-C1AC4C716259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloBattlezone.Editor", "HoloBattlezone.Editor.csproj", "{747778D1-6DDD-6881-80ED-662868466DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9122C60-C830-A5B6-4BC3-62CEB47495B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9122C60-C830-A5B6-4BC3-62CEB47495B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9122C60-C830-A5B6-4BC3-62CEB47495B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9122C60-C830-A5B6-4BC3-62CEB47495B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECE22C9-E769-E9EC-E409-4762E3379257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECE22C9-E769-E9EC-E409-4762E3379257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECE22C9-E769-E9EC-E409-4762E3379257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECE22C9-E769-E9EC-E409-4762E3379257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F8BBAC-33D5-E673-DFED-C1AC4C716259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F8BBAC-33D5-E673-DFED-C1AC4C716259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F8BBAC-33D5-E673-DFED-C1AC4C716259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F8BBAC-33D5-E673-DFED-C1AC4C716259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747778D1-6DDD-6881-80ED-662868466DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747778D1-6DDD-6881-80ED-662868466DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747778D1-6DDD-6881-80ED-662868466DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747778D1-6DDD-6881-80ED-662868466DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
